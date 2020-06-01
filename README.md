@@ -1,5 +1,5 @@
 # Haberman
-Here is the basic tutorial for Exploratory Data Analysis of Haberman Cancer Survival Dataset uploaded in the pdf form. Do share your suggestions. 
+Here is the basic tutorial for Data Visualisation of Haberman Cancer Survival Dataset through exploratory data analysis uploaded in the pdf form. Do share your suggestions. 
 
 Description: The data set contains cases from a study that was conducted between 1958 and 1970 at the University of Chicago's Billings Hospital on the survival of patients who had undergone surgery for breast cancer.
 
